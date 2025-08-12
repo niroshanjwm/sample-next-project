@@ -8,9 +8,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="">
-        <div className="bg-red-500 p-10 border border-black text-black">
-          Home
-        </div>
         {children}
       </body>
     </html>

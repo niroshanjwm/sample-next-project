@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <div className="bg-red-500 p-5">
-      <h1>Shopping cart</h1>
-    </div>
-  );
+  return <div className="p-5">Sample Next Project</div>;
 }
